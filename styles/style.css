@@ -13,16 +13,21 @@
     
 } */
    .container1 {
-    border: 25px solid white;        
-        height : 1200px;  
+    /* background-color: yellow; */
+    background-color: black;
+    border: 25px solid rgb(122, 138, 210);
+    /* border: 25px solid white;         */
+    height : 1200px;
+    width: 90%
+        /* height : auto;   */
   }   
   .container3 {
     background-color: black;
     border: 25px solid rgb(122, 138, 210);
-    border-top:45px solid rgb(111, 100, 204);
+    /* border-top:45px solid rgb(111, 100, 204);
     border-left:75px solid rgb(111, 100, 204);    
     border-bottom:45px solid rgb(111, 100, 204);
-    border-right:75px solid rgb(111, 100, 204);
+    border-right:75px solid rgb(111, 100, 204); */
     height: 100%; 
     width : 100%    
   } 
